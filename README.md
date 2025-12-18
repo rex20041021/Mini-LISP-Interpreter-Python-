@@ -32,13 +32,13 @@
 ### 執行方式
 
 ```bash
-python mini_lisp.py < input.lisp
+python main.py < input.lisp
 ```
 
 或直接指定檔案：
 
 ```bash
-python mini_lisp.py input.lisp
+python main.py input.lisp
 ```
 
 ---
